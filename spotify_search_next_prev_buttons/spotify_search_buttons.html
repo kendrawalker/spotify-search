@@ -1,0 +1,33 @@
+
+<!doctype html>
+<html>
+
+<head>
+    <title>Spotify Search</title>
+    <link rel="stylesheet" href="spotify_search_buttons_stylesheet.css" />
+</head>
+
+<body>
+  <h1>♫ Spotify Search ♫</h1>
+  <h3>Find Your Songs Faster Here!</h3>
+  <div id="search">
+    <textarea id ="text-input">Enter Search Here</textarea>
+    <select id="drop-down">
+      <option value="album">Album</option>
+      <option value="artist">Artist</option>
+    </select>
+    <button id="search-button">Click Here</button>
+  </div>
+  <div id="search-results">
+      <div id="results-displayed-msg"></div>
+      <div id="results"></div>
+  </div>
+  <div id="next-prev-buttons">
+    <div id="prev-button"></div>
+    <div id="next-button"></div>
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script type="text/javascript" src="spotify_search_buttons_jscript.js"></script>
+</body>
+
+</html>

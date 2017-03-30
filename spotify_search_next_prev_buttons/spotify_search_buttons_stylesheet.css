@@ -1,0 +1,133 @@
+/*spotify search*/
+
+html {
+  background-color: #F5F5DC;
+}
+
+h1 {
+  font-size: 60px;
+  color: purple;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-weight: bolder;
+  text-shadow: 0px -2px 1px rgba(150, 150, 150, 1);
+}
+
+h3 {
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+
+#search {
+  margin-top: 3%;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+#text-input {
+  vertical-align: top;
+  width: 300px;
+  height: 20px;
+  border: 2px solid purple;
+  text-align: justify;
+  }
+
+#drop-down {
+  vertical-align: center;
+  height: 28px;
+  width: 70px;
+  border: 2px solid purple;
+}
+
+#search-button {
+  vertical-align: center;
+  width: 100px;
+  height: 28px;
+
+}
+
+.result-msg {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.music {
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color: blue;
+  vertical-align: center;
+  display: inline-block;
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.music-name {
+  margin: 0;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.musicpic {
+  width: 200px;
+  height: 200px;
+  border-top: 4px solid purple;
+  border-left: 2px solid purple;
+  border-right: 2px solid purple;
+  border-bottom: 1px solid purple;
+  border-top-left-radius: 12%;
+  border-top-right-radius: 12%;
+  border-bottom-left-radius: 10%;
+  border-bottom-right-radius: 10%;
+  box-sizing: border-box;
+  -webkit-box-shadow: 0px -2px 30px 5px rgba(0,0,0,0.57);
+  -moz-box-shadow: 0px -2px 30px 5px rgba(0,0,0,0.57);
+  box-shadow: 0px -2px 30px 5px rgba(0,0,0,0.57);
+  }
+
+#next-prev-buttons{
+  width: 100%;
+  position: absolute;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#prev-button {
+  position: relative;
+  width: 30%;
+  height: auto;
+  float: left;
+  margin: 0;
+}
+
+.prev {
+  width: 130px;
+  text-align: center;
+  font-size: 10px;
+  color: purple;
+  font-weight: bold;
+}
+
+#next-button {
+  position: relative;
+  width: 30%;
+  height: auto;
+  float: right;
+  margin: 0;
+}
+
+.next {
+  width: 100px;
+  text-align: center;
+  font-size: 10px;
+  color: purple;
+  font-weight: bold;
+}

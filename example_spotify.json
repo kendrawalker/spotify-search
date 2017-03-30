@@ -1,0 +1,700 @@
+{
+  "albums" : {
+    "href" : "https://api.spotify.com/v1/search?query=Daphne&type=album&offset=0&limit=20",
+    "items" : [ {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S"
+        },
+        "href" : "https://api.spotify.com/v1/artists/40Qm9cpj6FlrkoL1sziJ2S",
+        "id" : "40Qm9cpj6FlrkoL1sziJ2S",
+        "name" : "Daphne Willis",
+        "type" : "artist",
+        "uri" : "spotify:artist:40Qm9cpj6FlrkoL1sziJ2S"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1FsWhh7DzUHFTcSqWiNGjC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1FsWhh7DzUHFTcSqWiNGjC",
+      "id" : "1FsWhh7DzUHFTcSqWiNGjC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/8e7980cbd2bd6ac63a28f24751b1c0aa90c414bc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/0fc7f35070e5358c19ebf57ac6b19f153e61b2c0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/17c23cd0a9bde7be04026446dd2ccb9caeff0297",
+        "width" : 64
+      } ],
+      "name" : "Get It",
+      "type" : "album",
+      "uri" : "spotify:album:1FsWhh7DzUHFTcSqWiNGjC"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ATAh4PZe1BdqF403XqGiV"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ATAh4PZe1BdqF403XqGiV",
+        "id" : "1ATAh4PZe1BdqF403XqGiV",
+        "name" : "Daphne Loves Derby",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ATAh4PZe1BdqF403XqGiV"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5oGj5Zj30c31BkFdSc21X0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5oGj5Zj30c31BkFdSc21X0",
+      "id" : "5oGj5Zj30c31BkFdSc21X0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/90889af1fbdf651a93a3c9c6efe1dd2737a3af58",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/f195dbb0d8841addd3057a82f40a046085f37a06",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/c31b067d3dbcb8af8599eba2649babdbd656a90c",
+        "width" : 64
+      } ],
+      "name" : "On The Strength Of All Convinced",
+      "type" : "album",
+      "uri" : "spotify:album:5oGj5Zj30c31BkFdSc21X0"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6eYvYRSzTpimXU6BOFVZjz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6eYvYRSzTpimXU6BOFVZjz",
+        "id" : "6eYvYRSzTpimXU6BOFVZjz",
+        "name" : "Daphne Khoo",
+        "type" : "artist",
+        "uri" : "spotify:artist:6eYvYRSzTpimXU6BOFVZjz"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2Bv4nCMcI0wuM2ypq0tPin"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2Bv4nCMcI0wuM2ypq0tPin",
+      "id" : "2Bv4nCMcI0wuM2ypq0tPin",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/e4c687a8e388e1f5a2bd7d0db4067cf7a839e1f9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/24f2315c1fc97ab2c9d1a29d255aed2e9856712a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/b72a2dba39c730642c8aaaee4e03c40c34f58b56",
+        "width" : 64
+      } ],
+      "name" : "Wonderland",
+      "type" : "album",
+      "uri" : "spotify:album:2Bv4nCMcI0wuM2ypq0tPin"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6xezzx8L2FAC0MsGZSRLxg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6xezzx8L2FAC0MsGZSRLxg",
+        "id" : "6xezzx8L2FAC0MsGZSRLxg",
+        "name" : "Sonia Leigh",
+        "type" : "artist",
+        "uri" : "spotify:artist:6xezzx8L2FAC0MsGZSRLxg"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S"
+        },
+        "href" : "https://api.spotify.com/v1/artists/40Qm9cpj6FlrkoL1sziJ2S",
+        "id" : "40Qm9cpj6FlrkoL1sziJ2S",
+        "name" : "Daphne Willis",
+        "type" : "artist",
+        "uri" : "spotify:artist:40Qm9cpj6FlrkoL1sziJ2S"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6gyyN6PWr0zYPg5y3EUOwf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6gyyN6PWr0zYPg5y3EUOwf",
+      "id" : "6gyyN6PWr0zYPg5y3EUOwf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/54e931cf176e7d0a7784b09b08ac971f8ef15c5c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/3b75a62b076db4e59c7da4c8640a2fcfb63d1c13",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/6bfd0645b42c296aa25dd54c19028a385621bdef",
+        "width" : 64
+      } ],
+      "name" : "Spider in the Roses (feat. Rob the Man)",
+      "type" : "album",
+      "uri" : "spotify:album:6gyyN6PWr0zYPg5y3EUOwf"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6G7FxE6hYCjB8urhypNwAf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6G7FxE6hYCjB8urhypNwAf",
+        "id" : "6G7FxE6hYCjB8urhypNwAf",
+        "name" : "Daphne",
+        "type" : "artist",
+        "uri" : "spotify:artist:6G7FxE6hYCjB8urhypNwAf"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3WvKJWDuuBLeMxU5tCO0LZ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3WvKJWDuuBLeMxU5tCO0LZ",
+      "id" : "3WvKJWDuuBLeMxU5tCO0LZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/19a203ebff4fe8f4d9c6f715aca4425a181d280f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/75eae9372e22105cc7a9d573248f184e0db812b7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/c2a9064e2c9c18f5d20ae60a12f3f598d10f112b",
+        "width" : 64
+      } ],
+      "name" : "Daphne",
+      "type" : "album",
+      "uri" : "spotify:album:3WvKJWDuuBLeMxU5tCO0LZ"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PLH6kh8jGtH5hwZKAEatA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PLH6kh8jGtH5hwZKAEatA",
+        "id" : "3PLH6kh8jGtH5hwZKAEatA",
+        "name" : "Daphne and the Mystery Machines",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PLH6kh8jGtH5hwZKAEatA"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5WQTMn2XLMNP8fxeVf4JvV"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5WQTMn2XLMNP8fxeVf4JvV",
+      "id" : "5WQTMn2XLMNP8fxeVf4JvV",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/d208a0e8dc1d6d2c94b9c0d41957fdb93e0aed81",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/9a1a1f988f7c570a6fb7da7168b0320e79605268",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/aa1a2dba64081ae6104b9b76b6c4a4ed6b60afce",
+        "width" : 64
+      } ],
+      "name" : "Learn to Fall",
+      "type" : "album",
+      "uri" : "spotify:album:5WQTMn2XLMNP8fxeVf4JvV"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3PLH6kh8jGtH5hwZKAEatA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3PLH6kh8jGtH5hwZKAEatA",
+        "id" : "3PLH6kh8jGtH5hwZKAEatA",
+        "name" : "Daphne and the Mystery Machines",
+        "type" : "artist",
+        "uri" : "spotify:artist:3PLH6kh8jGtH5hwZKAEatA"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4ODAqOxtyarCn0rMUP8rcl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4ODAqOxtyarCn0rMUP8rcl",
+      "id" : "4ODAqOxtyarCn0rMUP8rcl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/eecc546b46bdcbafccb3aa33e9eab92a96ac5d28",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/dbe9bad809956b91cc94ba4b545694365ae82ecb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/4c36f19bb449777ecd2153d3743405976fe590b5",
+        "width" : 64
+      } ],
+      "name" : "Daphne and the Mystery Machines",
+      "type" : "album",
+      "uri" : "spotify:album:4ODAqOxtyarCn0rMUP8rcl"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S"
+        },
+        "href" : "https://api.spotify.com/v1/artists/40Qm9cpj6FlrkoL1sziJ2S",
+        "id" : "40Qm9cpj6FlrkoL1sziJ2S",
+        "name" : "Daphne Willis",
+        "type" : "artist",
+        "uri" : "spotify:artist:40Qm9cpj6FlrkoL1sziJ2S"
+      } ],
+      "available_markets" : [ "AT", "AU", "BE", "CA", "CH", "CZ", "DE", "DK", "ES", "FI", "FR", "GB", "GR", "HU", "IE", "IT", "MX", "NL", "NO", "NZ", "PL", "PT", "SE", "US" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1CC57J6jZnlBldyNYheguu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1CC57J6jZnlBldyNYheguu",
+      "id" : "1CC57J6jZnlBldyNYheguu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/45ac177388efda1aa510b8a4c3ee2a36e0e9c70b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/6bbdc06925b56144403783b2c97b4e70649c8079",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/37c3dd022cf7266d3615e139efe55b8a6ea735cc",
+        "width" : 64
+      } ],
+      "name" : "What To Say",
+      "type" : "album",
+      "uri" : "spotify:album:1CC57J6jZnlBldyNYheguu"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1jEJ4hkDLdKiUJgZzlx1G4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1jEJ4hkDLdKiUJgZzlx1G4",
+        "id" : "1jEJ4hkDLdKiUJgZzlx1G4",
+        "name" : "Oye Daphne!",
+        "type" : "artist",
+        "uri" : "spotify:artist:1jEJ4hkDLdKiUJgZzlx1G4"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6E6bpML0sSWMLOqkQb5eTN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6E6bpML0sSWMLOqkQb5eTN",
+      "id" : "6E6bpML0sSWMLOqkQb5eTN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/8feb78bd4c4963c221227f648641ae2c8abd2984",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/e078e8c98718b5aa0fc3a8c5615057cbf7babf51",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/7c7fba7b3516c64a57e22eb01176d06f0ebe941a",
+        "width" : 64
+      } ],
+      "name" : "Oye Daphne!",
+      "type" : "album",
+      "uri" : "spotify:album:6E6bpML0sSWMLOqkQb5eTN"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5AOcPfypyRAtLDtKwbUj2q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5AOcPfypyRAtLDtKwbUj2q",
+        "id" : "5AOcPfypyRAtLDtKwbUj2q",
+        "name" : "Daphné",
+        "type" : "artist",
+        "uri" : "spotify:artist:5AOcPfypyRAtLDtKwbUj2q"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/39cW525ffvzfJ3kh0j6Y9b"
+      },
+      "href" : "https://api.spotify.com/v1/albums/39cW525ffvzfJ3kh0j6Y9b",
+      "id" : "39cW525ffvzfJ3kh0j6Y9b",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/73e7b3c84f53abbf635ecde881a4fc30478d8c1e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/da28b083900f44b0b1b4680bbedf0d7a81fd516e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/f9f4ac56dd9ec4beb78e16fb40b543213cf813a1",
+        "width" : 64
+      } ],
+      "name" : "La Fauve",
+      "type" : "album",
+      "uri" : "spotify:album:39cW525ffvzfJ3kh0j6Y9b"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0gWQSenuqxEdbXQhGIdzht"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0gWQSenuqxEdbXQhGIdzht",
+        "id" : "0gWQSenuqxEdbXQhGIdzht",
+        "name" : "Hypnotized",
+        "type" : "artist",
+        "uri" : "spotify:artist:0gWQSenuqxEdbXQhGIdzht"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/63t78VcqV1tTaGEwFFThMD"
+      },
+      "href" : "https://api.spotify.com/v1/albums/63t78VcqV1tTaGEwFFThMD",
+      "id" : "63t78VcqV1tTaGEwFFThMD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/028877466b343d9834c044ca8c84fe5eaaf71372",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/f98b1716a7887fedc5346dc8ffa3549b928dcdaa",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/1f08177566583ed7af42bd4c5e4a00f966b29e3a",
+        "width" : 64
+      } ],
+      "name" : "Daphne",
+      "type" : "album",
+      "uri" : "spotify:album:63t78VcqV1tTaGEwFFThMD"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4MYmXXtaHp1sV3emEUlRKW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4MYmXXtaHp1sV3emEUlRKW",
+        "id" : "4MYmXXtaHp1sV3emEUlRKW",
+        "name" : "Wiggin",
+        "type" : "artist",
+        "uri" : "spotify:artist:4MYmXXtaHp1sV3emEUlRKW"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/56T76J046tDwNgB0iYxTaB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/56T76J046tDwNgB0iYxTaB",
+      "id" : "56T76J046tDwNgB0iYxTaB",
+      "images" : [ {
+        "height" : 600,
+        "url" : "https://i.scdn.co/image/d05b8c5e6b314e4b78e94906b8c5ea73f3dafd5d",
+        "width" : 600
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/1a8466f733aa7c9c7a9f41d2f29719fa58663276",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/7172c07bc1d5db2e85b0b89c1c51b3e375f2abfc",
+        "width" : 64
+      } ],
+      "name" : "Daphne",
+      "type" : "album",
+      "uri" : "spotify:album:56T76J046tDwNgB0iYxTaB"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LkjBAFTNpucCuMmbCsW7w"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LkjBAFTNpucCuMmbCsW7w",
+        "id" : "0LkjBAFTNpucCuMmbCsW7w",
+        "name" : "Grandmother Corn",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LkjBAFTNpucCuMmbCsW7w"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/17Oqj8Z1753mFBjMLPD9pk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/17Oqj8Z1753mFBjMLPD9pk",
+      "id" : "17Oqj8Z1753mFBjMLPD9pk",
+      "images" : [ {
+        "height" : 600,
+        "url" : "https://i.scdn.co/image/401bcd929c0b44bfc4a0630f31f33a27e2f41b3b",
+        "width" : 600
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/4d28abb96a327e8e81f545e9ed09ada810c4dc91",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/de19fd12e281f87829993daf3a67198e8dd6696d",
+        "width" : 64
+      } ],
+      "name" : "Daphne",
+      "type" : "album",
+      "uri" : "spotify:album:17Oqj8Z1753mFBjMLPD9pk"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3bqD2trlpitTy8ODNgnpPm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3bqD2trlpitTy8ODNgnpPm",
+        "id" : "3bqD2trlpitTy8ODNgnpPm",
+        "name" : "Ruins of Elysium",
+        "type" : "artist",
+        "uri" : "spotify:artist:3bqD2trlpitTy8ODNgnpPm"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/121xVbiQtCkmkmKB64GxkP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/121xVbiQtCkmkmKB64GxkP",
+      "id" : "121xVbiQtCkmkmKB64GxkP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/8c5e28db9193e402d6e4191f66de67bd58a54c59",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/4b8e7151a41258fbd924a0d3a3d2f5f4f5e4ee2b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/8d9aaaa9d122588ad67b6fa965cc58f8e799007f",
+        "width" : 64
+      } ],
+      "name" : "Daphne",
+      "type" : "album",
+      "uri" : "spotify:album:121xVbiQtCkmkmKB64GxkP"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3fyr5uksidSlLzsUjRIz5A"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3fyr5uksidSlLzsUjRIz5A",
+        "id" : "3fyr5uksidSlLzsUjRIz5A",
+        "name" : "Karl Böhm",
+        "type" : "artist",
+        "uri" : "spotify:artist:3fyr5uksidSlLzsUjRIz5A"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/18y2cXOSDHccZ6IA6epwG2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/18y2cXOSDHccZ6IA6epwG2",
+      "id" : "18y2cXOSDHccZ6IA6epwG2",
+      "images" : [ {
+        "height" : 636,
+        "url" : "https://i.scdn.co/image/19d5066c2296031a3577101d184d3e843151a8d8",
+        "width" : 640
+      }, {
+        "height" : 298,
+        "url" : "https://i.scdn.co/image/2476fd54bf4c5a2733751470ea09ee0f77213806",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ecafa5b402305d454775a589ee1d4c8f6e2592a3",
+        "width" : 64
+      } ],
+      "name" : "Daphne",
+      "type" : "album",
+      "uri" : "spotify:album:18y2cXOSDHccZ6IA6epwG2"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7J1p52dy2kEn9fravbDnIK"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7J1p52dy2kEn9fravbDnIK",
+        "id" : "7J1p52dy2kEn9fravbDnIK",
+        "name" : "Giovannie De Sadeleer",
+        "type" : "artist",
+        "uri" : "spotify:artist:7J1p52dy2kEn9fravbDnIK"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3KwA7McFnmWDkNqN5EUtGT"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3KwA7McFnmWDkNqN5EUtGT",
+      "id" : "3KwA7McFnmWDkNqN5EUtGT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/aea8ec09c5d6a87572f357b09137e526367baa65",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/a41d4bd14e1fc8ece4f783249ac0aed136f6fca2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/0185f649cf7d165c99ace077285d233a5636bb99",
+        "width" : 64
+      } ],
+      "name" : "Daphne",
+      "type" : "album",
+      "uri" : "spotify:album:3KwA7McFnmWDkNqN5EUtGT"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5kaYZAkUF2QLGGXaNSgYIG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5kaYZAkUF2QLGGXaNSgYIG",
+        "id" : "5kaYZAkUF2QLGGXaNSgYIG",
+        "name" : "Ceren Aksan",
+        "type" : "artist",
+        "uri" : "spotify:artist:5kaYZAkUF2QLGGXaNSgYIG"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2oaAUigCAmW1NnJKag4ekJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2oaAUigCAmW1NnJKag4ekJ",
+      "id" : "2oaAUigCAmW1NnJKag4ekJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/9430965427913a4786775ec0163c5c7ad8196927",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/c1ab4524d893e783ef1c768872e7af0ea7010776",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/07b56ade3b9498e0309da0304110e4731e5ae633",
+        "width" : 64
+      } ],
+      "name" : "Daphne",
+      "type" : "album",
+      "uri" : "spotify:album:2oaAUigCAmW1NnJKag4ekJ"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3fyr5uksidSlLzsUjRIz5A"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3fyr5uksidSlLzsUjRIz5A",
+        "id" : "3fyr5uksidSlLzsUjRIz5A",
+        "name" : "Karl Böhm",
+        "type" : "artist",
+        "uri" : "spotify:artist:3fyr5uksidSlLzsUjRIz5A"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1ELF8zk9ionfbITjYVS8P2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1ELF8zk9ionfbITjYVS8P2",
+      "id" : "1ELF8zk9ionfbITjYVS8P2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/23ba436c353eb49af9802928ab6bc8dc47180d84",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/2295b0911ad4a5710d1d30a16cde9a5a93f3b2fd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/00098016aa9772c2aae6d70ac505b28d93c816a0",
+        "width" : 64
+      } ],
+      "name" : "Daphne",
+      "type" : "album",
+      "uri" : "spotify:album:1ELF8zk9ionfbITjYVS8P2"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3LyEQYjL4IKwxa6XVGXEky"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3LyEQYjL4IKwxa6XVGXEky",
+        "id" : "3LyEQYjL4IKwxa6XVGXEky",
+        "name" : "Erich Kleiber",
+        "type" : "artist",
+        "uri" : "spotify:artist:3LyEQYjL4IKwxa6XVGXEky"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5TqqODDk1gZl8KrDtebtSe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5TqqODDk1gZl8KrDtebtSe",
+      "id" : "5TqqODDk1gZl8KrDtebtSe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/022b460f7eece74570fc5158a3b028cc6047ca65",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/cd84867a11bf9f32b6f3355674be345214627efc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/7acc69baf50b7f9140383666196077ccd18ef3fc",
+        "width" : 64
+      } ],
+      "name" : "Daphne",
+      "type" : "album",
+      "uri" : "spotify:album:5TqqODDk1gZl8KrDtebtSe"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6pAwHPeExeUbMd5w7Iny6D",
+        "id" : "6pAwHPeExeUbMd5w7Iny6D",
+        "name" : "Richard Strauss",
+        "type" : "artist",
+        "uri" : "spotify:artist:6pAwHPeExeUbMd5w7Iny6D"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7wizRIlv5FeFouYzs6w8ac"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7wizRIlv5FeFouYzs6w8ac",
+      "id" : "7wizRIlv5FeFouYzs6w8ac",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/34c2accb8d0482c3f116b030b0bdf7c86c20aacf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/017b44502d5113e4cd6525f7cb901b3442feb435",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/50519061de96dc3cde8f60b09dcac6c1407cabcd",
+        "width" : 64
+      } ],
+      "name" : "Daphne",
+      "type" : "album",
+      "uri" : "spotify:album:7wizRIlv5FeFouYzs6w8ac"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=Daphne&type=album&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 194
+  }
+}

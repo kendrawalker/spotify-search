@@ -1,0 +1,4 @@
+{
+    "name": "Spotify Search",
+    "description": "This project allows the user to enter artist or album search criteria. The webpage then utilizes spotify's API's to scan and return data displaying the closest matches to the user's search request."
+}
